@@ -22,13 +22,6 @@ Implemented a Covid-19 detection model using VGG16 architecture and transfer lea
 
 - **Evaluation:** Assessed model performance using accuracy, classification report, and confusion matrix. Achieved 100% accuracy on the test set.
 
-## Results
-
-- **Accuracy Plot:** ![accuracy.png](accuracy.png)
-
-- **Sample Predictions:**
-  ![Prediction Samples](sample_predictions.png)
-
 ## Usage
 
 1. Clone the repository.
